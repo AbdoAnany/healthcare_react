@@ -4,6 +4,7 @@ Healthcare React App
 
 The Healthcare React App is a modern web application designed to help users manage their health records, book appointments, and consult with healthcare professionals online.
 NOTE admin OTP 111111111
+
 🚀 Features
 
 📅 Appointment booking system
